@@ -14,6 +14,7 @@ Basic components required are:
 8. Wires
 
 Set up the circuit as shown in the figure below
+![Screenshot 2021-10-30 095355](https://user-images.githubusercontent.com/46841978/139542173-d78829ac-5fd4-410f-bdf4-1e008adef5c6.png)
 
 
 
